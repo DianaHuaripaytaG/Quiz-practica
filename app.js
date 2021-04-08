@@ -16,6 +16,6 @@
         }
     }
     var resultado = document.getElementById("resultado");
-    resultado.innerHTML = '<h3> Obtuviste <span>' + puntos +'</span> de <span>'+ total + 'puntos</span></h3>' ;    
+    resultado.innerHTML = '<h3> Obtuviste <span>' + puntos +'</span> de <span>'+ total + ' puntos </span></h3>' ;    
     return false;
 } 
