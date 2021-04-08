@@ -1,4 +1,4 @@
-/* function verificarRespuestas(){
+ function verificarRespuestas(){
     var total = 5 ;
     var puntos = 0 ;
     var myForm = document.forms["quizForm"];
@@ -18,4 +18,4 @@
     var resultado = document.getElementById("resultado");
     resultado.innerHTML = '<h3> Obtuviste <span>' + puntos +'</span> de <span>'+ total + 'puntos</span></h3>' ;    
     return false;
-} */
+} 
